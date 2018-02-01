@@ -21,3 +21,9 @@
 	color: #9c27b0;
 	font-weight:bold;
 }
+ .btn.btn-primary {
+     float:none; 
+}
+.logo{
+	background-color: white;
+}
