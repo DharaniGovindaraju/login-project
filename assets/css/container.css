@@ -21,9 +21,13 @@
 	color: #9c27b0;
 	font-weight:bold;
 }
- .btn.btn-primary {
-     float:none; 
-}
 .logo{
 	background-color: white;
 }
+.form-group:last-child{
+	margin-top: 10px;
+}
+.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn){
+	margin-top: 0;
+}
+.btn-group>.btn:first-child{padding:0;}
