@@ -27,7 +27,11 @@
 .form-group:last-child{
 	margin-top: 10px;
 }
-.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn){
+.btn.btn-second{
+	background-color: #9c27b0;
+	color: white;
+}
+/*.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn){
 	margin-top: 0;
 }
-.btn-group>.btn:first-child{padding:0;}
+.btn-group>.btn:first-child{padding:0;}*/
