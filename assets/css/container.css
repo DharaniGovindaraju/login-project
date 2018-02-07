@@ -1,7 +1,7 @@
 #contentAreas{
 	background-color:white;
 }
-.login-page {
+body{
 	 background-color:#6347bc; 
 	 }
 .cd-section h4{
@@ -17,6 +17,9 @@
 .card-content select:hover{
 	border:2px solid #9c27b0;
 }
+.btn.btn-primary.btn-simple{
+	float: left;
+}
 .footer a{
 	color: #9c27b0;
 	font-weight:bold;
@@ -30,6 +33,9 @@
 .btn.btn-second{
 	background-color: #9c27b0;
 	color: white;
+}
+.btn.btn-secondary.btn-simple{
+	color: #9c27b0;
 }
 /*.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn){
 	margin-top: 0;
