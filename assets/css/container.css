@@ -16,10 +16,10 @@ body{
 }
 .card-content select:hover{
 	border:2px solid #9c27b0;
-}
+}/*
 .btn.btn-primary.btn-simple{
-	float: left;
-}
+	float: right;
+}*/
 .footer a{
 	color: #9c27b0;
 	font-weight:bold;
